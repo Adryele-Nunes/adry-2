@@ -1,0 +1,12 @@
+<html>
+       <head>
+             <title> Adry restaurante </title>
+             
+       </head>
+       <body>
+             <h1> Melhores pratos caseiros </h1>
+             <img src="imagem/https://www.bing.com/images/search?view=detailV2&ccid=GkjsFmpD&id=45CF829D4923FA54DE8C4CB5D5BEB32893BD38CB&thid=OIP.GkjsFmpDU6ErSVcZo9XDtwHaE6&mediaurl=http%3a%2f%2fculinaria.culturamix.com%2fblog%2fwp-content%2fgallery%2fcomo-fazer-pratos-de-restaurante-5%2fComo-Fazer-Pratos-de-Restaurante-12.jpg&exph=299&expw=450&q=pratos+de+restaurante&simid=608051259429880627&ck=66B6ABAAEB399AA2D4CA061557A66312&selectedIndex=8&FORM=IRPRST&ajaxhist=0.jpg">
+             <img src="imagem/https://www.bing.com/images/search?view=detailV2&ccid=YvbRlAil&id=45CF829D4923FA54DE8C8F1AB7970B8AA9C52AB4&thid=OIP.YvbRlAilcrkbUbWes09V0wHaD5&mediaurl=http%3a%2f%2fculinaria.culturamix.com%2fblog%2fwp-content%2fgallery%2fcomo-fazer-pratos-de-restaurante-6%2fComo-Fazer-Pratos-de-Restaurante-15.jpg&exph=300&expw=570&q=pratos+de+restaurante&simid=607989063981010474&ck=542DC0758CB290634E1804A2A63FD6BF&selectedIndex=3&FORM=IRPRST&ajaxhist=0.jpg">           
+             
+      </body>
+</html>
